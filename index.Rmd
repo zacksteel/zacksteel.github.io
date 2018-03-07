@@ -1,5 +1,5 @@
 ---
-title: "Personal Website"
+title: "Website under construction..."
 ---
 
-Hello, World!
+This is the very early stages of Zack Steel's personal website. Check back in for more info on projects, some pretty pictures etc...
