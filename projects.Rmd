@@ -4,10 +4,14 @@ title: "Projects"
 
 ## Changing wildfire patterns in the Sierra Nevada
 
+Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I've assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression. 
 
+![A lack of fire in yellow pine and mixed conifer forests (through exclusion or luck), leads to more high-severity when it does burn. Grey curves are model predictions for fires in the Sierra Nevada, the blue curve is fore the forest type in general. Figure from Steel et al. 2015.](images/Steel_etal2015_Fig7.jpg)
 
 ## Forest birds and wildfire
 
-
+During 2014-16 my collaborators and I conducted avian point count surveys across 8 Sierra Nevada fire areas of different ages. These efforts were combined with those from a regional monitoring program containing survey locations coincident with an additional 25 fires. Using these data and a multi-species occupancy modeling approach, I am assessing the influence of wildfire spatial patterns and successional trajectories on bird species occupancy and community composition. One publication stemming from this project is currently in preparation, with additional articles planned.
 
 ## Bats and acoustic monitoring
+
+During 2014-17 acoustic surveys of forest bat species were conducted in 3 Sierra Nevada fire areas and within surrounding unburned forested lands. Using these data and hierarchical modeling, I'm assessing how bat occupancy and activity levels vary across severity gradients, at different successional stages, and with post-fire management (i.e. salvage logging). Starting in 2017, surveys were expanded to two National Park wilderness areas and recordings were conducted coincident with temporary weather stations and throughout the summer season, allowing for assessments of bat phenology and activity fluctuations in response to weather. One publication stemming from this project is currently in preparation, with additional articles planned.
