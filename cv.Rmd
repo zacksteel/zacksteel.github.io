@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+
+```{r, echo = F, out.width = 800, out.height=2000}
+library(knitr)
+knitr::include_graphics("docs/Steel_CV.pdf")
+```

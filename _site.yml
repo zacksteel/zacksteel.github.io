@@ -5,11 +5,18 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+#    - text: "About Me"
+#      href: about.html
     - text: "Projects"
       href: projects.html
-    - text: "About Me"
-      href: about.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "CV"
+      href: cv.html
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
+    highlight: textmate
+    include:
+#      after_body: footer.html
     css: style.css
