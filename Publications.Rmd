@@ -1,13 +1,48 @@
 ---
-title: "Publications"
+title: ""
 ---
 
+    
+  *****
+    
+## Academic Publications  
   
-## Academic Pubs  
+**Steel, Z. L.**, M. Koontz, and H. Safford. 2018. *The changing landscape of wildfire: Burn pattern trends and implications for California’s yellow pine and mixed conifer forests*. Landscape Ecology - [(link)](https://doi.org/10.1007/s10980-018-0665-5)  
   
+**Steel, Z. L.**, A. E. Steel, J. Williams, J. H. Viers, P. Marquet, and O. Barbosa. 2017. *Patterns of bird diversity and habitat use in mixed vineyard-matorral landscapes of Central Chile*. Ecological Indicators 73:345-357. 
 
+Grof-Tisza, P., **Z. L. Steel**, E. Cole, M. Holyoak, and R. Karban. 2017. *Testing predictions of movement behavior in a hilltopping moth*. Animal Behavioral 133:161-168. - [(link)](https://www.researchgate.net/publication/320456782_Testing_predictions_of_movement_behaviour_in_a_hilltopping_moth)  
+
+Grof-Tisza, P., **Z. L. Steel**, and R. Karban. 2017. *The spatial distribution and oviposition preference of the Ranchman’s tiger moth, Platyprepia virginalis (Lepidoptera: Arctiidae)*. Journal of the Lepidopterists’ Society 71(1):16-19. - [(link)](https://www.researchgate.net/publication/316095303_The_Spatial_Distribution_and_Oviposition_Preference_of_the_Ranchman%27s_Tiger_Moth_Platyprepia_virginalis_Lepidoptera_Erebidae)  
+
+**Steel, Z. L.**, H. D. Safford, and J. H. Viers. 2015. *The fire frequency-severity relationship and the legacy of fire suppression in California forests*. Ecosphere 6:art8. - [(link)](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00224.1)  
+
+Schwartz, M.W., L. B. Smith, and **Z. L. Steel**. 2013. *Conservation investment for rare plants in urban environments*. PLOS ONE 8(12):e83809. - [(link)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083809)  
+
+Siegel, R. B, R. L. Wilkerson, J. F. Saracco, and **Z. L. Steel**. 2011. *Elevational distribution of common bird species on the Sierra Nevada’s west slope*. Western Birds 42:2-26.  
+
+  
+  *****
+  
 ## Technical Reports  
+
+**Steel, Z. L.**, B. R. Campos, and H. D. Safford. 2018. Bat occupancy in Sierra Nevada wildfire areas and implications for post-fire management. Prepared for US Forest Service, Region 5. -  [(pdf)](https://www.dropbox.com/s/jkfbozegj1npxia/Steel%20et%20al.%202018%20-%20Post-fire%20Bat%20Monitoring%202014-17.pdf?dl=0)  
+
+Campos, B. R., R. D. Burnett, and **Z. L. Steel**. 2017. Bird and bat inventories in the Storrie and Chips fire areas 2015-2016: Final report to the Lassen National Forest. Point Blue Conservation Science, Petaluma, CA. Point Blue Contribution No. 2142. - [(pdf)](http://data.prbo.org/apps/snamin/uploads/Point%20Blue%202015-16%20Lassen%20National%20Forest%20post-fire%20final%20report%20v2%20FINAL.pdf)  
+
+**Steel, Z. L.** and H. D. Safford. 2017. Acoustic inventory and monitoring of bat species in the Power Fire burn area – 2014, 2015, and 2016 field season. Prepared for Eldorado National Forest, California, USDA Region 5. - [(pdf)](https://www.dropbox.com/s/cxa3dfuvy4h6of1/Steel%20and%20Safford%20-%20Power%20Fire%202014-16%20Bat%20Monitoring%20Report.pdf?dl=0)  
+
+Fogg, A. M, **Z. L. Steel** and R. D. Burnett. 2017. Avian Monitoring in Freds and Power fires: Final Report. Point Blue Conservation Science, Petaluma, CA. Point Blue Contribution No. 2138. - [(pdf)](http://data.prbo.org/apps/snamin/uploads/FredsPowerFireReport2015.pdf)  
   
-  
+Schwartz, M. W., et al. 2013. Sensitive Animals - Appendix 15 to SEKI Natural Resources Condition Assessment. Natural Resource Report NPS/SEKI/NRCA—2013/665. National Park Service. Fort Collins, Colorado. Assessments within:  
+	- **Steel, Z. L.**, E. Reddy and R. Green. The American Pika - Ochotona princeps  
+	- **Steel, Z. L.**, J. Shields. Sierra Nevada Bighorn Sheep - Ovis canadensis sierrae  
+	- Copeland, S., K. Dybala, **Z. L. Steel**. California Condor - Gymnogyps californianus  
+	- **Steel, Z. L.**, Sierra Nevada Chipmunks - Tamais spp.  
+	
+**Steel, Z. L.**, M. L. Bond, R. B. Siegel, and P. Pyle. 2012. Avifauna of Sierra Nevada Network parks: Assessing distribution, abundance, stressors, and conservation opportunities for 145 bird species. Natural Resource Report NPS/SIEN/NRR—2012/506. National Park Service, Fort Collins, Colorado. [(pdf)](https://www.birdpop.org/docs/pubs/Steel_et_al_2012_Avifauna_of_Sierra_Nevada_Network_Parks.pdf)  
+
+
+
 
 
